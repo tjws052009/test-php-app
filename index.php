@@ -5,6 +5,6 @@ $hoge = "TEST";
 <body>
   <h1>hogehoge</h1>
   <p>piyopiyo</p>
-  <div><?= $hoge ?></div>
+  <div><?php echo $hoge ?></div>
 </body>
 </html>
