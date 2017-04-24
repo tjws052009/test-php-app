@@ -1,5 +1,5 @@
 <?php
-$hoge = "TEST";
+$hoge = "TEST HOGEHOGE";
 ?>
 <html>
 <body>
